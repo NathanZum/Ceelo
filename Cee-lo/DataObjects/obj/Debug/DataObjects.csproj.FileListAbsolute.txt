@@ -1,0 +1,12 @@
+E:\Final-Project-NET\Cee-lo\DataObjects\bin\Debug\DataObjects.dll
+E:\Final-Project-NET\Cee-lo\DataObjects\bin\Debug\DataObjects.pdb
+E:\Final-Project-NET\Cee-lo\DataObjects\obj\Debug\DataObjects.csprojAssemblyReference.cache
+E:\Final-Project-NET\Cee-lo\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+E:\Final-Project-NET\Cee-lo\DataObjects\obj\Debug\DataObjects.dll
+E:\Final-Project-NET\Cee-lo\DataObjects\obj\Debug\DataObjects.pdb
+D:\Final-Project-NET\Cee-lo\DataObjects\bin\Debug\DataObjects.dll
+D:\Final-Project-NET\Cee-lo\DataObjects\bin\Debug\DataObjects.pdb
+D:\Final-Project-NET\Cee-lo\DataObjects\obj\Debug\DataObjects.csproj.AssemblyReference.cache
+D:\Final-Project-NET\Cee-lo\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+D:\Final-Project-NET\Cee-lo\DataObjects\obj\Debug\DataObjects.dll
+D:\Final-Project-NET\Cee-lo\DataObjects\obj\Debug\DataObjects.pdb
